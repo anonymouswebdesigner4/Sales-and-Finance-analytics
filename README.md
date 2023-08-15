@@ -1,6 +1,7 @@
 # Sales-and- Finance-analytics
  Excel Project
 **🖥️💼Project Title: "Sales and Finance Reports"**
+====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Description:**
 Engage in the journey with AtliQ Hardware, a renowned hardware company offering PC, mouse, and computers. While they're making strides in advanced analytics, Excel still plays a vital role in decision-making. Our mission is to empower AtliQ's business users with crucial sales and finance reports, fostering data-driven choices. 
 **Task:** Build user-friendly reports, including Net Sales Performance, Market Performance, and Profit & Loss by year and month. 
