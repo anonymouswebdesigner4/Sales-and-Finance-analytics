@@ -57,6 +57,8 @@ The top 10 products have displayed promising results, with a steady growth traje
 
 
 **Key learnings:** 
+
+
 **Functional Knowledge:** Gained expertise in sales and finance domain for effective reporting.
 
 
